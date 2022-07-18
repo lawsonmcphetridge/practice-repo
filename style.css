@@ -8,3 +8,22 @@ body {
     background-color: magenta;
 }
 
+.introduction-class {
+color:crimson;
+}
+
+
+.introduction-class:hover {
+    font-size: 50px;
+    background-color: black;
+}
+
+
+
+.keyboard-built {
+    justify-content: center;
+    align-items: center;
+    padding: 50px
+}
+
+
